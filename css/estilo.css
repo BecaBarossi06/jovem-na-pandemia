@@ -1,0 +1,116 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-color: #8286D9;
+}
+#cabecalho{
+	text-align: center;
+	background-color: #F2BEA0;
+}
+h1{
+	font-size: 50px;
+	padding-top: 20px;
+	color: #D93D59;
+	font-family:  san-serif;
+}
+#cor-logo{
+	color: black;
+	font-family: arial;
+	font-size: 60
+}
+h2{
+	text-align: center;
+	font-family: Times New Roman;
+}
+p{
+	font-family: Times New Roman;
+	font-size: 17px;
+	text-align: justify;
+	margin-top: 10px;
+}
+#cabecalho a:link, #cabecalho a:visited{
+	font-family: arial;
+	text-align: center;
+	text-decoration: unset;
+	color: black;
+	padding: 8px 12px;
+}
+#cabecalho a:hover{
+	background-color: #F2D5E0;
+	text-decoration: unset;
+	border-radius: 5px;
+}
+#area_postagens{
+	text-align: center;
+	margin: 10px;
+}
+.postagem1{
+	text-align: justify;
+	font-size: 15pt;
+}
+#postagem_video{
+	width: 920px;
+	margin: 0 auto;
+	padding: 15px;
+}
+.video{
+	padding: 20px;
+	margin-bottom: 20px; 
+	background-color: #F2D5E0;
+	text-align: center;
+}
+#contato{
+	background-color:  #F2D5E0;
+	text-align: center;
+	margin: 30px 80px 30px 80px;
+	padding: 35px;
+}
+#imagem_contato img{
+	width: 70px;
+	height: 45px;
+	padding: 15px;
+}
+.postagem1, .postagem2, .postagem3, .postagem4{
+	background-color: #F2A341;
+	border-radius: 6px;
+	margin: 50px;
+	padding: 24px;
+}
+.postagem1 img, .postagem2 img, .postagem3 img, .postagem4 img{
+	width: 50%;
+	height: 50%;
+	padding-top: 10px;
+	text-align: center;
+}
+ul{
+	font-size: 20px;
+}
+.blog{
+	width: 480px;
+	height: 400px;
+	margin: 10px 50px;
+	margin-bottom: 80px;
+	float: left;
+	padding: 10px;
+	text-align: justify;
+	background-color: #F2D5E0;
+	border-radius: 7px;
+
+}
+.blog img{
+	width: 250px;
+	height: 200px;
+}
+#postagemdahome{
+	background-color: #8286D9;
+
+}
+#rodape{
+	background-color: #F2BEA0;
+	clear: both;
+	text-align: center;
+	padding: 15px;
+
+}
